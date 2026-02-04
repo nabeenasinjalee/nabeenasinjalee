@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Nabina 👋
 
-<!--
-**nabeenasinjalee/nabeenasinjalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about creative projects, learning new technologies, and exploring innovative solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎨 Creative thinker and problem solver
+- 💻 Exploring tech, coding, and AI
+- 🌱 Always learning new skills
+- 🌐 Interested in projects that combine creativity and technology
+
+---
+
+## Skills
+
+- Programming: Python, JavaScript, HTML/CSS, 
+- Machine Learning & NLP
+- Web Development (Full Stack Developer)
+- Data Analysis & Visualization
+- Data Science Enthusiasts
+
+---
+
+## Fun Facts
+
+- I love turning ideas into small projects
+- I enjoy experimenting with AI and automation
+- Always curious about the latest tech trends
+
+---
+
+Thanks for visiting my profile! Feel free to explore my projects.
